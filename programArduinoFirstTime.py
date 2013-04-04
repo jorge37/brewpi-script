@@ -17,7 +17,7 @@
 import programArduino as programmer
 
 hexFile = '/var/www/uploads/brewpi_avr.hex'
-boardType = 'leonardo'
+boardType = 'uno'
 port = '/dev/ttyACM0'
 eraseEEPROM = True
 
